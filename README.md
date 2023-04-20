@@ -4,8 +4,8 @@
  States: Walk, Run, Wallrun, Punch, Dash
 
 <p align="middle">
- <img src="readme_assets/Dev1.gif" alt="Demo GIF" width="200"/>
- <img src="readme_assets/Dev2.gif" alt="Demo GIF" width="200"/>
- <img src="readme_assets/Dev3.gif" alt="Demo GIF" width="200"/>
- <img src="readme_assets/Dev4.gif" alt="Demo GIF" width="200"/>
+ <img src="readme_assets/Dev1.gif" alt="Demo GIF" width="500"/>
+ <img src="readme_assets/Dev2.gif" alt="Demo GIF" width="500"/>
+ <img src="readme_assets/Dev3.gif" alt="Demo GIF" width="500"/>
+ <img src="readme_assets/Dev4.gif" alt="Demo GIF" width="500"/>
 </p>
